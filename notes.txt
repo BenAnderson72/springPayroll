@@ -11,9 +11,9 @@ mvn spring-boot:run
 TODO: 
 Add tests - https://spring.io/guides/gs/testing-web
 
-gen swagger - https://www.geeksforgeeks.org/spring-boot-rest-api-documentation-using-swagger/
+gen swagger - https://www.baeldung.com/spring-rest-openapi-documentation
 
-Docker
+Docker - https://spring.io/guides/gs/spring-boot-docker
 
 
 
