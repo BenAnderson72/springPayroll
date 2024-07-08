@@ -7,6 +7,8 @@ sdk use java 17.0.11.fx-zulu
 
 mvn spring-boot:run
 
+Progress up to - Building links into your REST API
+
 
 TODO: 
 Add tests - https://spring.io/guides/gs/testing-web
