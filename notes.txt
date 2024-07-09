@@ -9,6 +9,10 @@ mvn spring-boot:run
 
 Progress up to - Building links into your REST API
 
+Why can't I test in Codespaces? "Testing: Focus on Test Explorer" not available. https://code.visualstudio.com/docs/editor/testing#:~:text=To%20get%20started%20with%20testing%20in%20VS%20Code%2C%20first%20install,manage%20and%20run%20your%20tests.
+
+Works fine in gitpod
+
 
 TODO: 
 Add tests - https://spring.io/guides/gs/testing-web
