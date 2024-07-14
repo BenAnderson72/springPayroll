@@ -17,9 +17,17 @@ Works fine in gitpod
 TODO: 
 Add tests - https://spring.io/guides/gs/testing-web
 
+Docker - https://spring.io/guides/gs/spring-boot-docker
+
+https://github.com/OpenAPITools/openapi-generator
+
+DONE:
+
 gen swagger - https://www.baeldung.com/spring-rest-openapi-documentation
 
-Docker - https://spring.io/guides/gs/spring-boot-docker
+
+
+
 
 
 
