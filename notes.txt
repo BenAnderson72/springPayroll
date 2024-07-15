@@ -18,6 +18,8 @@ TODO:
 Add tests - https://spring.io/guides/gs/testing-web
 
 https://github.com/OpenAPITools/openapi-generator
+https://openapi-generator.tech/. 
+
 
 DONE:
 
