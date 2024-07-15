@@ -19,6 +19,10 @@ Add tests - https://spring.io/guides/gs/testing-web
 
 Docker - https://spring.io/guides/gs/spring-boot-docker
 
+mvn package && java -jar target/springpayroll-0.1.0.jar
+docker build -t springio/springpayroll-docker .
+docker run -p 8080:8080 springio/springpayroll-docker
+
 https://github.com/OpenAPITools/openapi-generator
 
 DONE:
